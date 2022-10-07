@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello, I am Eray Sahin</h1>
 <h3 align="center">A student at Seneca College</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/Eray%20%C5%9Eahin/Downloads/New%20Project.jpg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eraysahin06" alt="eraysahin06" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1kv1vRyoG_xt9Ond4-Z3Xza1DpKfLSFPG/preview">
 
 - 🔭 I am currently working on **a mobile game project called: GOLDRIFT**
 
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraysahin06&show_icons=true&locale=en&layout=compact" alt="eraysahin06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eraysahin06&show_icons=true&locale=en" alt="eraysahin06" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraysahin06&" alt="eraysahin06" /></p>
