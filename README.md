@@ -2,11 +2,11 @@
 <h3 align="center">Currently a Computer Programming Student at Seneca College</h3>
 <a href="https://ibb.co/85PxJTh"><img src="https://i.ibb.co/Ph1WR3S/New-Project.jpg" alt="New-Project" border="0"></a>
 
-- 🔭 I am currently working on **a mobile game project called: GOLDRIFT**
+- 🔭 I am currently working on<br> **a mobile game project called: GOLDRIFT**
 
-- 🌱 I am currently learning **C++, Java, Software Testing Automation, Game Development**
+- 🌱 I am currently learning<br> **C++, Java, Software Testing Automation, Game Development**
 
-- 💬 Ask me about **anything you want!**
+- 💬 Ask me about<br> **anything you want!**
 
 - 📫 How to reach me<br> **eraysahinmoon@gmail.com**
 
