@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I am Eray Sahin</h1>
 <h3 align="center">A student at Seneca College</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1kv1vRyoG_xt9Ond4-Z3Xza1DpKfLSFPG/preview">
+<iframe src="https://drive.google.com/file/d/1kv1vRyoG_xt9Ond4-Z3Xza1DpKfLSFPG/preview" width="640" height="480" allow="autoplay"></iframe>
 
 - 🔭 I am currently working on **a mobile game project called: GOLDRIFT**
 
