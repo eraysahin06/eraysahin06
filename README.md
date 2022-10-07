@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I am Eray Sahin</h1>
+<h1 align="center">👋 Hello, I am Eray.</h1>
 <h3 align="center">Currently a Computer Programming Student at Seneca College</h3>
 <a href="https://ibb.co/85PxJTh"><img src="https://i.ibb.co/Ph1WR3S/New-Project.jpg" alt="New-Project" border="0"></a>
 
