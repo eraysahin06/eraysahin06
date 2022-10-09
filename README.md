@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello, I am Eray.</h1>
 <h3 align="center">Currently a Computer Programming Student at Seneca College</h3>
-<img align="right" width="400" src="https://i.ibb.co/sgF39RM/template-2.jpg" alt="template-2" border="0">
+<!-- Add an image -->
+<img align="right" width="400" src="" alt="template-2" border="0">
 
 - 🔭 I am currently working on<br> **a mobile game project called: GOLDRIFT**
 
