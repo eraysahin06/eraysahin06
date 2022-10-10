@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I am Eray.</h1>
+<h1 align="center"> Hello, I am Eray.</h1>
 <h3 align="center">Currently a Computer Programming Student at Seneca College</h3>
 <!-- Add an image -->
 <!--<img align="right" width="400" src="" alt="template-2" border="0">-->
