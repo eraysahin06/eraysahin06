@@ -17,7 +17,6 @@
 </p>
 <br>
 **SOME SCREENSHOTS FROM MY GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.**
-<img width="500" src="https://i.ibb.co/mGZ5Mfp/2.jpg" alt="2" border="0">
 <img width="500"  src="https://i.ibb.co/n0j082b/3.jpg" alt="3" border="0">
 
 <h3 align="left">Languages and Tools:</h3>
