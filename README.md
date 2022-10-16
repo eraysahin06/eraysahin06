@@ -21,8 +21,6 @@
 <img align="center" width="500" src="https://i.ibb.co/0f2SHSq/6.jpg" alt="6" border="0">
 <img align="center" width="500" src="https://i.ibb.co/sFm9SJB/7.jpg" alt="7" border="0">
 <img align="center" width="500" src="https://i.ibb.co/n0j082b/3.jpg" alt="3" border="0">
-<img align="left" width="300" src="https://i.ibb.co/55bZg05/4.jpg" alt="4" border="0">
-<img align="center" width="200" src="https://i.ibb.co/y0wLYbz/5.jpg" alt="5" border="0">
 
 
 
