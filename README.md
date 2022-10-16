@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/eraysahin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a>
 </p>
 <br>
-**SOME SCREENSHOTS FROM MY GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.**
+<p>**SOME SCREENSHOTS FROM MY GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.**</p>
 <br>
 <img align="center" width="500"  src="https://i.ibb.co/n0j082b/3.jpg" alt="3" border="0">
 <img align="left" width="300"  src="https://i.ibb.co/55bZg05/4.jpg" alt="4" border="0">
