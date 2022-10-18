@@ -5,18 +5,16 @@
 
 - 🔭 I am currently working on<br> **a mobile game project called: GOLDRIFT**
 
-- 🌱 I am currently learning<br> **C++, Java, Software Testing Automation, Game Development**
+- 🌱 I am currently learning<br> **Software Testing Automation using Java**
 
-- 💬 Ask me about<br> **anything you want!**
+- 📫 Contact info:<br> **eraysahinmoon@gmail.com**
 
-- 📫 How to reach me<br> **eraysahinmoon@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eraysahin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a>
 </p>
 <br>
-<h4 align="left">SOME SCREENSHOTS FROM MY GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.</h4>
+<h4 align="left">SOME SCREENSHOTS FROM GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.</h4>
 <br>
 <img align="left" width="300" src="https://i.ibb.co/0f2SHSq/6.jpg" alt="6" border="0">
 <img width="250" src="https://i.ibb.co/n0j082b/3.jpg" alt="3" border="0">
