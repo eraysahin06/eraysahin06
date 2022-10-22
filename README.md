@@ -2,13 +2,13 @@
 <h3 align="center">Currently a Computer Programming Student at Seneca College</h3>
 <!-- Add an image -->
 <!--<img align="right" width="400" src="" alt="template-2" border="0">-->
-
+<hr>
 - 🔭 I am currently working on<br> **a mobile game project called: GOLDRIFT**
-
+<hr>
 - 🌱 I am currently learning<br> **Software Testing Automation using Java**
-
+<hr>
 - 📫 Contact info:<br> **eraysahinmoon@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eraysahin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a>
