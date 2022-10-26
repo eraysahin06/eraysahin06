@@ -3,11 +3,11 @@
 <!-- Add an image -->
 <!--<img align="right" width="400" src="" alt="template-2" border="0">-->
 <hr>
-- 🔭 I am currently working on<br> **a mobile game project called: GOLDRIFT**
+- 🔭 I am currently working on<br> a mobile game project called: GOLDRIFT
 <hr>
-- 🌱 I am currently learning<br> **Software Testing Automation using Java**
+- 🌱 I am currently learning<br> Software Testing Automation using Java
 <hr>
-- 📫 Contact info:<br> **eraysahinmoon@gmail.com**
+- 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
