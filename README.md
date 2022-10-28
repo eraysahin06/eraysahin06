@@ -3,8 +3,9 @@
 <!-- Add an image -->
 <!--<img align="right" width="400" src="" alt="template-2" border="0">-->
 <hr>
-**Social Media** </br>
+<h3 align="left">Social Media</h3> </br>
 <a href="https://steamcommunity.com/id/ermoon89/" target="blank"><img src="https://img.icons8.com/color/48/000000/steam.png"/></a>
+<a href="https://linkedin.com/in/eraysahin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -14,10 +15,6 @@
 <hr>
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
-<h3 align="left">Connect with me on LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eraysahin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a>
-</p>
 <br>
 <h4 align="left">SOME SCREENSHOTS FROM GAMES THAT I DEVELOPED ON UNITY GAME ENGINE USING C#.</h4>
 <br>
