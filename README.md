@@ -16,6 +16,3 @@
 <hr>
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
-<h4 align="left">SOME SCREENSHOTS FROM MY GAMES MADE WITH UNITY GAME ENGINE USING C#.</h4>
-<img width="250" src="https://i.ibb.co/0f2SHSq/6.jpg" alt="6" border="0">
-<img width="250" src="https://i.ibb.co/n0j082b/3.jpg" alt="3" border="0">
