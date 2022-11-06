@@ -13,4 +13,4 @@
 <hr>
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
-<img src="https://holopin.me/eraysahin06" width="300px"/>
+<img src="https://holopin.me/eraysahin06" width="500px"/>
