@@ -11,7 +11,7 @@
 <hr>
 - 🌱 I am currently enrolled to a bootcamp at TechnoStudy:<br> SDET (Software Development Engineer in Test)
 - <br />
-- * [Techo Study](https://techno.study/)
+- * Techo Study - (https://techno.study/)
 <hr>
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
