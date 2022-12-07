@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Eray.</h1>
+<h1 align="center">Hello, I am Eray.👾</h1>
 <h3 align="center">Currently a Computer Programming Student at Seneca College, Toronto</h3>
 <hr>
 <h3 align="left">LinkedIn</h3>
