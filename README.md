@@ -5,7 +5,5 @@
 <a href="https://linkedin.com/in/eraysahin06" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray sahin" height="30" width="40" /></a><br/>
 <hr>
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars&theme=dark)
 <img src="https://holopin.me/@eraysahin06" width="500px"/>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars&theme=dark)
