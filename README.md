@@ -13,4 +13,4 @@
 <hr>
 <img src="https://holopin.me/@eraysahin06" width="500px"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars&theme=dark)
