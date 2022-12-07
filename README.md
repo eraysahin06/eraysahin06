@@ -9,4 +9,4 @@
 <img src="https://holopin.me/@eraysahin06" width="500px"/>
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars,contribs,issues&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars,contribs,issues&theme=tokyonight&show_icons=true&count_private=true)
