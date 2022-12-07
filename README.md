@@ -7,5 +7,6 @@
 - 📫 Contact info:<br> eraysahinmoon@gmail.com
 <hr>
 <img src="https://holopin.me/@eraysahin06" width="500px"/>
+<hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=stars,contribs,issues&theme=dark)
