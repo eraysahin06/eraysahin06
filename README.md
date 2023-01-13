@@ -7,7 +7,3 @@
 <h3 align="left">📧 E-mail</h3>
 <a href="mailto:eraysahinmoon@gmail.com">eraysahinmoon@gmail.com</a>
 <hr>
-
-![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=eraysahin06&hide=contribs,issues&theme=tokyonight&show_icons=true&count_private=true)
-<hr>
-
