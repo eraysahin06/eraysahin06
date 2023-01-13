@@ -7,3 +7,7 @@
 <h3 align="left">📧 E-mail</h3>
 <a href="mailto:eraysahinmoon@gmail.com">eraysahinmoon@gmail.com</a>
 <hr>
+
+[![An image of @eraysahin06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eraysahin06)](https://holopin.io/@eraysahin06)
+
+<hr>
