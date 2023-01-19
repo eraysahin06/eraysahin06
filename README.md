@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/0jVx3Gf/Black-Minimal-Motivation-Quote-Linked-In-Banner.png" alt="Black-Minimal-Motivation-Quote-Linked-In-Banner" border="0">
 <h1 align="center">👾 Hello, I am Eray.</h1>
 <h3 align="center">✍ Currently a Computer Programming Student at Seneca College, Toronto</h3>
 <hr>
