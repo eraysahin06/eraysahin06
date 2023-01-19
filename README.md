@@ -1,4 +1,4 @@
-<img src="./1.png" alt="banner" width="100%" align="right">
+<img src="./2.png" alt="banner" width="100%" align="right">
 &nbsp;
 <h1 align="center">👾 Hello, I am Eray.</h1>
 <h3 align="center">✍ Currently a Computer Programming Student at Seneca College, Toronto</h3>
