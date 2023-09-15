@@ -1,4 +1,3 @@
-<img src="./2.png" alt="banner" width="100%" align="right">
 &nbsp;
 <h1 align="center">Hello, I am Eray.</h1>
 <h3 align="center">Full-Stack Developer / Software Automation Tester Based in Toronto, Canada </h3>
