@@ -1,10 +1,9 @@
 &nbsp;
 <h1 align="center">Hello, I am Eray.</h1>
 <h3 align="center">Full-Stack Developer / Software Automation Tester Based in Toronto, Canada </h3>
+
 <p>I'm a full-stack developer with a strong passion for technology, currently collaborating with two non-profit startup organizations to build innovative solutions that address critical societal issues.</p>
-
 <p>Being part of these inspiring initiatives has been incredibly rewarding, and I'm excited to continue making a positive impact through technology.</p>
-
 <p>Through my work with these non-profit startups, I've witnessed firsthand how technology can be harnessed to tackle some of society's most pressing challenges.</p>
 <hr>
 <h3 align="left">LinkedIn</h3>
