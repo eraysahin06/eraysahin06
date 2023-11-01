@@ -13,7 +13,7 @@
 <a href="mailto:eraysahindev@gmail.com">eraysahindev@gmail.com</a>
 <hr>
 <h3 align="left">Personal Website</h3>
-<a href="https://www.eraysahin.ca/">eraysahin.ca</a>
+<a href="https://www.eraysahin.ca/">www.eraysahin.ca</a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
