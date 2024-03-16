@@ -1,6 +1,6 @@
 &nbsp;
 <h1 align="center">Hello, I am Eray.</h1>
-<h3 align="center">Full-Stack Developer Based in Toronto, Canada </h3>
+<h3 align="center">Full-Stack Developer in Toronto, Canada </h3>
 
 <p>I'm a full-stack developer with a strong passion for technology, currently collaborating with two non-profit startup organizations to build innovative solutions that address critical societal issues.</p>
 <hr>
