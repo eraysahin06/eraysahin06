@@ -1,6 +1,6 @@
 &nbsp;
 <h1 align="center">Hello, I am Eray.</h1>
-<h3 align="center">Full-Stack Developer in Toronto, Canada </h3>
+<h3 align="center">Full-Stack Developer in Toronto, ON, Canada </h3>
 
 <hr>
 <h3 align="left">LinkedIn</h3>
