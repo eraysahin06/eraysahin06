@@ -99,16 +99,6 @@ Narrative-driven game with NPC AI, mission systems, vehicles, and interactive wo
 
 ---
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eraysahin06&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"/>
-
-</div>
-
----
-
 ## Holopin
 
 <div align="center">
