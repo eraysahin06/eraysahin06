@@ -1,83 +1,58 @@
+---
+
+# Unity Game Development
+
+I also design and build **gameplay systems and simulation mechanics in Unity (C#)**.
+
+My work focuses on building systems that feel alive and reactive rather than static.
+
+### Gameplay Systems
+
+• NPC AI behaviors and navigation (NavMesh based)  
+• Mission and objective systems  
+• Interactive dialogue and event triggers  
+• Dynamic day / night cycles  
+• Vehicle mechanics and controllers  
+• Player interaction systems  
+• Inventory and item logic  
+• UI systems for gameplay feedback
+
+### Game Design Interests
+
+• immersive open-world gameplay  
+• narrative driven mechanics  
+• simulation style systems  
+• emergent gameplay loops
+
+Current Unity project includes:
+
+- open world environment
+- NPC AI systems
+- vehicle mechanics
+- mission system
+- player progression systems
+
+---
+
+# GitHub Statistics
+
 <div align="center">
 
-# Eray Şahin
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eraysahin06&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"/>
 
-### Full-Stack Developer • Toronto, Canada
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eraysahin06&theme=transparent&hide_border=true"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+web+platforms%2C+automation+systems+and+games;Full-stack+developer+shipping+real+products;React+•+Node.js+•+Supabase+•+Unity)](https://git.io/typing-svg)
+</div>
 
-<p>
-<a href="https://linkedin.com/in/eraysahin06">
-<img src="https://img.shields.io/badge/LinkedIn-Eray%20Sahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="mailto:eraysahindev@gmail.com">
-<img src="https://img.shields.io/badge/Email-eraysahindev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://eraysahin.ca">
-<img src="https://img.shields.io/badge/Website-eraysahin.ca-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://holopin.io/@eraysahin06">
-<img src="https://img.shields.io/badge/Holopin-Badges-6E57E0?style=for-the-badge&logo=holopin&logoColor=white"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=eraysahin06&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraysahin06&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-## About Me
-
-Full-stack developer based in **Toronto, Canada**.
-
-I build software across several domains including:
-
-- web platforms and APIs  
-- automation systems and developer tools  
-- mobile applications  
-- Unity-based gameplay systems
-
-I focus on creating **clean architecture, scalable systems, and polished user experiences**.
-
----
-
-## Current Work
-
-- Developing **platforms with React, Next.js, Node.js, and Supabase**
-- Building **automation systems and backend services**
-- Creating **Unity gameplay systems and open-world mechanics**
-- Designing products that are simple, fast, and production-ready
-
----
-
-## Projects
-
-**DriveGather**  
-Social platform for car enthusiasts to discover meets, connect, and organize events.
-
-**Client Tracking System**  
-Platform for managing clients, workflows, and internal operations.
-
-**Unity Open-World Game Project**  
-Narrative-driven game with NPC AI, mission systems, vehicles, and interactive world mechanics.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eraysahin06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-</div>
-
----
-
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -86,19 +61,3 @@ Narrative-driven game with NPC AI, mission systems, vehicles, and interactive wo
 </div>
 
 ---
-
-## Holopin
-
-<div align="center">
-
-[![Holopin](https://holopin.me/eraysahin06)](https://holopin.io/@eraysahin06)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Always building.</sub>
-
-</div>
