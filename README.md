@@ -1,90 +1,126 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Eray 👋</h1>
-  <h3 align="center">Full-Stack Developer • Toronto, Canada</h3>
-</p>
+<div align="center">
 
-<p align="center">
-Building web platforms, mobile apps, and game systems.
-</p>
+# Eray Şahin
 
----
+### Full-Stack Developer • Toronto, Canada
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+web+platforms%2C+automation+systems+and+games;Full-stack+developer+shipping+real+products;React+•+Node.js+•+Supabase+•+Unity)](https://git.io/typing-svg)
 
-- Full-stack developer based in **Toronto, ON**
-- Interested in **web platforms, automation, and game development**
-- Building scalable systems with **modern web technologies**
-- Experience across **backend services, frontend apps, and real-time systems**
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/eraysahin06" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p>
+<a href="https://linkedin.com/in/eraysahin06">
+<img src="https://img.shields.io/badge/LinkedIn-Eray%20Sahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:eraysahindev@gmail.com">
+<img src="https://img.shields.io/badge/Email-eraysahindev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://eraysahin.ca">
+<img src="https://img.shields.io/badge/Website-eraysahin.ca-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://holopin.io/@eraysahin06">
+<img src="https://img.shields.io/badge/Holopin-Badges-6E57E0?style=for-the-badge&logo=holopin&logoColor=white"/>
+</a>
 </p>
 
-**Email:**  
-eraysahindev@gmail.com
+<img src="https://komarev.com/ghpvc/?username=eraysahin06&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-**Website:**  
-https://eraysahin.ca
+</div>
 
 ---
 
-# 🧰 Tech Stack
+## About Me
 
-### Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
+Full-stack developer based in **Toronto, Canada**.
 
-### Frontend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
+I build software across several domains including:
 
-### Backend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-</p>
+- web platforms and APIs  
+- automation systems and developer tools  
+- mobile applications  
+- Unity-based gameplay systems
 
-### Databases
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-</p>
+I focus on creating **clean architecture, scalable systems, and polished user experiences**.
 
 ---
 
-## 🏅 Badges
+## Current Work
 
-[![Holopin badges](https://holopin.me/eraysahin06)](https://holopin.io/@eraysahin06)
+- Developing **platforms with React, Next.js, Node.js, and Supabase**
+- Building **automation systems and backend services**
+- Creating **Unity gameplay systems and open-world mechanics**
+- Designing products that are simple, fast, and production-ready
 
 ---
 
-<p align="center">
-Always building, always learning.
-</p>
+## Projects
+
+**DriveGather**  
+Social platform for car enthusiasts to discover meets, connect, and organize events.
+
+**Client Tracking System**  
+Platform for managing clients, workflows, and internal operations.
+
+**Unity Open-World Game Project**  
+Narrative-driven game with NPC AI, mission systems, vehicles, and interactive world mechanics.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eraysahin06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eraysahin06&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Most Used Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraysahin06&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eraysahin06&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eraysahin06&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+
+</div>
+
+---
+
+## Holopin
+
+<div align="center">
+
+[![Holopin](https://holopin.me/eraysahin06)](https://holopin.io/@eraysahin06)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Always building.</sub>
+
+</div>
